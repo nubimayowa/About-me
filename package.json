@@ -2,6 +2,7 @@
   "name": "swift",
   "version": "1.0.0",
   "description": "",
+ 
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
@@ -10,6 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
@@ -17,5 +19,5 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/themefishertemplate/swift#readme"
+   "homepage": "https://bitbucket.org/themefishertemplate/swift#readme"
 }
